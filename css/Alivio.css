@@ -728,19 +728,19 @@ color: #484848;
     overflow-y:hidden ;
   
 }
-.container3{
+.lastul{
     display:flex;
     justify-content: center;
     margin-top: 95px;
     margin-right: 1237px;
 }
-ul{
+ .lastul ul{
     line-height: 60px;
     list-style-type: none;
     color:#FFFFFF;
     
 }
-li{
+.lastul ul li{
     font-family: Lato;
 font-style: normal;
 font-weight: 600;
