@@ -2,13 +2,7 @@
     box-sizing:border-box;
     margin: 0px;
     padding: 0px;
-  
-    
-    
-    
 }
-
-
 .section1{
     width: 100%;
 height: 981px;
@@ -103,11 +97,6 @@ border-radius: 4px;
     
 }
 
-
-    
-    
-    
-
 .f1box{width: 440px;
     height: 384px;
     transform: translate(275px, 261px);
@@ -157,12 +146,6 @@ overflow-y: hidden;
     background: transparent;
 }
 
-
-
-
-
-
-
 /*section2*/
 .section2{
 
@@ -179,8 +162,6 @@ border-radius: [object Object]px;
 
 }
 
-
-
 .howbox ul li{
     list-style: none;}
 
@@ -188,9 +169,7 @@ border-radius: [object Object]px;
     
     display: flex;
     justify-content: space-around;
-    
-    
-   
+       
 }
 
 .howbox p{
@@ -206,14 +185,11 @@ padding-top: 40px;
 
 color: #424242;
 
-
 }
 
 .howbox h4{
     width: 141px;
 height: 38px;
-
-
 font-family: Lato;
 font-style: normal;
 font-weight: 600;
@@ -225,19 +201,12 @@ color: #424242;
 .howbox h1{
     width: 584px;
 height: 158px;
-
-
 font-family: Georgia;
 font-style: normal;
 font-weight: bold;
 font-size: 50px;
 line-height: 157%;
-
-
-
 color: #01996D;
-
-
 }
 .threecolumns{
     display: flex;
@@ -253,15 +222,11 @@ color: #01996D;
 .personalise01ebox{
 width: 269px;
 height: 225px;
-
 transform: translate(0px ,-85px);
-
-
 }
 .zero1{
  width: 157px;
 height: 225px;
-
 font-family: Georgia;
 font-style: normal;
 font-weight: normal;
@@ -269,7 +234,6 @@ font-size: 150px;
 line-height: 150%;
 text-align: center;
 color: rgba(1, 153, 109, 0.2);
-
 
 }
 .personalise{
@@ -720,6 +684,9 @@ font-size: 20px;
 line-height: 31px;
 color: #484848;
 }
+
+
+/*section5*/
 
 .section5{
     width: 1920px;
