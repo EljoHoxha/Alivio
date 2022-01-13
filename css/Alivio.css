@@ -2,13 +2,7 @@
     box-sizing:border-box;
     margin: 0px;
     padding: 0px;
-  
-    
-    
-    
 }
-
-
 .section1{
     width: 100%;
 height: 981px;
@@ -103,11 +97,6 @@ border-radius: 4px;
     
 }
 
-
-    
-    
-    
-
 .f1box{width: 440px;
     height: 384px;
     transform: translate(275px, 261px);
@@ -157,12 +146,6 @@ overflow-y: hidden;
     background: transparent;
 }
 
-
-
-
-
-
-
 /*section2*/
 .section2{
 
@@ -179,8 +162,6 @@ border-radius: [object Object]px;
 
 }
 
-
-
 .howbox ul li{
     list-style: none;}
 
@@ -188,9 +169,7 @@ border-radius: [object Object]px;
     
     display: flex;
     justify-content: space-around;
-    
-    
-   
+       
 }
 
 .howbox p{
@@ -206,14 +185,11 @@ padding-top: 40px;
 
 color: #424242;
 
-
 }
 
 .howbox h4{
     width: 141px;
 height: 38px;
-
-
 font-family: Lato;
 font-style: normal;
 font-weight: 600;
@@ -225,19 +201,12 @@ color: #424242;
 .howbox h1{
     width: 584px;
 height: 158px;
-
-
 font-family: Georgia;
 font-style: normal;
 font-weight: bold;
 font-size: 50px;
 line-height: 157%;
-
-
-
 color: #01996D;
-
-
 }
 .threecolumns{
     display: flex;
@@ -253,15 +222,11 @@ color: #01996D;
 .personalise01ebox{
 width: 269px;
 height: 225px;
-
 transform: translate(0px ,-85px);
-
-
 }
 .zero1{
  width: 157px;
 height: 225px;
-
 font-family: Georgia;
 font-style: normal;
 font-weight: normal;
@@ -269,7 +234,6 @@ font-size: 150px;
 line-height: 150%;
 text-align: center;
 color: rgba(1, 153, 109, 0.2);
-
 
 }
 .personalise{
@@ -292,6 +256,7 @@ color: rgba(1, 153, 109, 0.2);
 }
 
 
+
 .paragraf01 p{
  width: 382px;
 height: 150px;
@@ -312,15 +277,11 @@ border-radius: 12px;
 }
 
 
-.laptopimg{
 
+.laptopimg{
 height: 148px;
 width: 184px;
-
 transform: translate(206px,-269px);
-
-
-
 left: 481px;
 top: 2065px;
 border-radius: 0px;
@@ -337,15 +298,11 @@ border-radius: 0px;
 .writeundestand02{
 width: 269px;
 height: 225px;
-
 transform: translate(0px ,-85px);
-
-
 }
 .zero2{
  width: 157px;
 height: 225px;
-
 font-family: Georgia;
 font-style: normal;
 font-weight: normal;
@@ -353,8 +310,6 @@ font-size: 150px;
 line-height: 150%;
 text-align: center;
 color: rgba(1, 153, 109, 0.2);
-
-
 }
 .writeunderstand{
     width: 181px;
@@ -363,7 +318,6 @@ color: rgba(1, 153, 109, 0.2);
 
 
 .writeunderstand p{
-    
     font-family: Georgia;
     font-style: normal;
     font-weight: bold;
@@ -372,7 +326,6 @@ color: rgba(1, 153, 109, 0.2);
     text-align: center;
     color: #000000;
     transform: translate(88px,-88px);
-    
 }
 
 
@@ -392,29 +345,22 @@ transform: translate(0px ,-83px);
  height: 492px;
 width: 390px;
 border-radius: 12px;
-
 }
 
 /*column3*/
 .column3{
     width: 390px;
     height: 1114px;
-    
-   
    transform: translate(0px,50px);
 }
 .alivio03{
 width: 269px;
 height: 225px;
-
 transform: translate(0px ,-85px);
-
-
 }
 .zero3{
  width: 157px;
 height: 225px;
-
 font-family: Georgia;
 font-style: normal;
 font-weight: normal;
@@ -422,8 +368,6 @@ font-size: 150px;
 line-height: 150%;
 text-align: center;
 color: rgba(1, 153, 109, 0.2);
-
-
 }
 .alivio{
     width: 181px;
@@ -432,7 +376,6 @@ color: rgba(1, 153, 109, 0.2);
 
 
 .alivio p{
-    
     font-family: Georgia;
     font-style: normal;
     font-weight: bold;
@@ -441,7 +384,6 @@ color: rgba(1, 153, 109, 0.2);
     text-align: center;
     color: #000000;
     transform: translate(88px,-88px);
-    
 }
 
 
@@ -721,8 +663,11 @@ line-height: 31px;
 color: #484848;
 }
 
+
+/*section5*/
+
 .section5{
-    width: 100%;
+    width: 1920px;
     height: 654px;
     background-color:#245852 ;
     overflow-y:hidden ;
