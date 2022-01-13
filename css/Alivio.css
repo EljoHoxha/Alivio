@@ -256,6 +256,7 @@ color: rgba(1, 153, 109, 0.2);
 }
 
 
+
 .paragraf01 p{
  width: 382px;
 height: 150px;
@@ -276,15 +277,11 @@ border-radius: 12px;
 }
 
 
-.laptopimg{
 
+.laptopimg{
 height: 148px;
 width: 184px;
-
 transform: translate(206px,-269px);
-
-
-
 left: 481px;
 top: 2065px;
 border-radius: 0px;
@@ -301,15 +298,11 @@ border-radius: 0px;
 .writeundestand02{
 width: 269px;
 height: 225px;
-
 transform: translate(0px ,-85px);
-
-
 }
 .zero2{
  width: 157px;
 height: 225px;
-
 font-family: Georgia;
 font-style: normal;
 font-weight: normal;
@@ -317,8 +310,6 @@ font-size: 150px;
 line-height: 150%;
 text-align: center;
 color: rgba(1, 153, 109, 0.2);
-
-
 }
 .writeunderstand{
     width: 181px;
@@ -327,7 +318,6 @@ color: rgba(1, 153, 109, 0.2);
 
 
 .writeunderstand p{
-    
     font-family: Georgia;
     font-style: normal;
     font-weight: bold;
@@ -336,7 +326,6 @@ color: rgba(1, 153, 109, 0.2);
     text-align: center;
     color: #000000;
     transform: translate(88px,-88px);
-    
 }
 
 
@@ -356,29 +345,22 @@ transform: translate(0px ,-83px);
  height: 492px;
 width: 390px;
 border-radius: 12px;
-
 }
 
 /*column3*/
 .column3{
     width: 390px;
     height: 1114px;
-    
-   
    transform: translate(0px,50px);
 }
 .alivio03{
 width: 269px;
 height: 225px;
-
 transform: translate(0px ,-85px);
-
-
 }
 .zero3{
  width: 157px;
 height: 225px;
-
 font-family: Georgia;
 font-style: normal;
 font-weight: normal;
@@ -386,8 +368,6 @@ font-size: 150px;
 line-height: 150%;
 text-align: center;
 color: rgba(1, 153, 109, 0.2);
-
-
 }
 .alivio{
     width: 181px;
@@ -396,7 +376,6 @@ color: rgba(1, 153, 109, 0.2);
 
 
 .alivio p{
-    
     font-family: Georgia;
     font-style: normal;
     font-weight: bold;
@@ -405,7 +384,6 @@ color: rgba(1, 153, 109, 0.2);
     text-align: center;
     color: #000000;
     transform: translate(88px,-88px);
-    
 }
 
 
